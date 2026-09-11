@@ -4,6 +4,818 @@
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXpkJVmOnZzoaLAuhxY2IImlWz.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Puratawn (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1967041.mp4&play_token=AyyH2RAViy&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRmMWUxZjQtYmIyYy00ZjhlLWFmNTAtMDkzNmIxMTQ1NmY1XkEyXkFqcGc@._V1_QL75_UX154_.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Sada Golap (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1947609.mp4&play_token=LgySJm7y6K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54QCyDeqFgVZ5df3eqp51y6HyG5.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Padatik (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1939536.mp4&play_token=0NNPhpPPIV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtb6ZT7HCl9rJhRrvXduin6LF8.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Babu Shona (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1939535.mp4&play_token=NKSHa5mKYM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e25BBKlSQjRKQFCcLhyIABSD90O.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Khejdi (2018)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1911045.mp4&play_token=iYLGOQuPAk&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xPionJuZGJsFiZ-3-2W2VQVywJQjQni-YHO0VCKw6L_oskZ_bH0WbDA&s=10" group-title="VOD - VOD Movies",┃BANGLA┃Ultorath (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1900461.mp4&play_token=6P0xhIGu9E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Keu Bole Biplobi, Keu Bole Dakat (2026) (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1895149.mp4&play_token=cflvgTYudk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w706ji0OCHYIrZk5laSq7wEX4Me.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Bini Sutor Taan (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1874378.mp4&play_token=r493kLv9PB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kDRU8m2hLlSaDyFb85GbrVSF4X.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Phool Pishi O Edward (2026) (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1868752.mp4&play_token=UgTZE6m69E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D2MMLs9H5r27EcRMI75vuepJwv.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Onekdin Por (2026) (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1868751.mp4&play_token=27em2FHtPi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqTh7TYdAnZTHLfgyHPPUSXwXMw.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Bagha Jatin (2023)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1847984.mp4&play_token=0zaoDh6Hoh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Mbi8MAvBYYTUtxYFCmVDdsq1Pv.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Nibba Nibbi (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1839500.mp4&play_token=X4Fk0MelBT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGGp9mgUzaAp1WMfCCtscsZ5urh.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Rongin Shurma (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1836318.mp4&play_token=4L34toguNK&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-InZhkIvPiqDpjdURXFVAgX1ucWRNzW_uFIgCZZiuXigY0jtao1vWm2U&s=10" group-title="VOD - VOD Movies",┃BANGLA┃Aarshikathan (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1836317.mp4&play_token=f0Wj68hOAF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5dYph0olL4LTmMih7GP5WZrCRk.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Malik-Mata (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1831846.mp4&play_token=3PSWagxoz4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91YwoAfOtbhMtXFzPHmWOEz15Q8.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Rockstar (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1810661.mp4&play_token=tpZBim5jCJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEzXdyJhdWc2msM0oBC9N8pKtMY.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Pallichattambi (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1810660.mp4&play_token=vugnNcknFr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpsMRdcrXE4iQpOasSNtlZyhgrN.jpg" group-title="VOD - VOD Movies",সপ্তডিঙার গুপ্তধন - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1802506.mp4&play_token=5Q8PkzU2v5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4bStMKjNzAy4IiIqbjOQ4frrGe.jpg" group-title="VOD - VOD Movies",Prince: Once Upon a Time in Dhaka - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1802505.mp4&play_token=0SsohWWJ5r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePdQRmZLTj0ccNNLDPtAN2pimGL.jpg" group-title="VOD - VOD Movies",আবার হাওয়া বদল - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1802504.mp4&play_token=ubYl7rXF8e&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/9b7f415e-04b4-4b17-9dec-bb37eec85539/cb27126b-9261-4063-a21c-fbf9ab215d38.jpg?width=600" group-title="VOD - VOD Movies",┃BANGLA┃Football Hottogoal (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1797960.mp4&play_token=50SvCAz2lW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezqTX0oQtRlJD30zj9twWPEBR7t.jpg" group-title="VOD - VOD Movies",ফুটানিগঞ্জের মহেশ - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1794804.mp4&play_token=SEkdOfd1Pf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3lcofmg6YoDOPCR0peenvJbPVO.jpg" group-title="VOD - VOD Movies",নারী চরিত্র বেজায় জটিল - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1792722.mp4&play_token=JuysYwr6aY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHewWBdFBJ1IDIvzCEpLOaeqTb9.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Roid (2026) (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1787346.mp4&play_token=r07KEiIQsO&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI0NjcwNGUtMmNlYy00Zjc1LTgwNTUtNzI0OTc2MGUwNWNhXkEyXkFqcGc@._V1_.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Omanush Holo Manush (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1763547.mp4&play_token=gyQzTdkaCg&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjI0ZWE4YmQtNTc3Zi00YTA2LWIzMDgtNjdiNjJlODRjMzVmXkEyXkFqcGc@._V1_.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Direct Attack (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1763546.mp4&play_token=CrSJmLAnwK&type=movie
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/nlGfXrfLgwfDpHDYBbgcsiSSGkhNwPq6ZmcYtAJzfFbkFYiuc8oP8ebY6d0PtmzIDV-JxG-1M3tULg=s2048-c-fcrop64=1,00000000ffffffff-nd-v1?days_since_epoch=20627" group-title="VOD - VOD Movies",┃BANGLA┃Ashirbad (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1763545.mp4&play_token=BnbqQlzMuD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epOQz87kzBnxDZMrgYCmFuDZXNx.jpg" group-title="VOD - VOD Movies",Lifeline - 2025
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1760886.mp4&play_token=UbsWAvefEL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLVC19LeYRJYU7RXxRdMuSqnPvd.jpg" group-title="VOD - VOD Movies",অভিমান - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1760885.mp4&play_token=f3lyDurFzF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPbLh3EuvcGrxhpOMfK5XIUT1az.jpg" group-title="VOD - VOD Movies",Aliya Basu Gayab Hai - 2024
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1760884.mp4&play_token=UxhvaFjP7s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaYKWssPeu6Poj8tRvTazhTStfF.jpg" group-title="VOD - VOD Movies",BHRAM - 2025
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1756557.mp4&play_token=7RmhWrfsIr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jFuUoddURp94ZvL7haeunK7fsm.jpg" group-title="VOD - VOD Movies",கெணத்த காணணோம் - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1754433.mp4&play_token=e0mhVIz0HW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePdQRmZLTj0ccNNLDPtAN2pimGL.jpg" group-title="VOD - VOD Movies",আবার হাওয়া বদল - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1754330.mp4&play_token=M0suRw2J46&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpsMRdcrXE4iQpOasSNtlZyhgrN.jpg" group-title="VOD - VOD Movies",সপ্তডিঙার গুপ্তধন - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1753945.mp4&play_token=fOuGAfwF2V&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsi1nNpC4QquvURQnywJRhgZQX4.jpg" group-title="VOD - VOD Movies",Phera - 2025
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1749037.mp4&play_token=9xJ6tguaHH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTINxIKlBT34ZoruNkFUMoKh3S.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Annapurna (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1748165.mp4&play_token=ohSXJIGDbI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxtf5130Q0y4EKCMTCXkA4w8NvO.jpg" group-title="VOD - VOD Movies",বিবি পায়রা - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1746736.mp4&play_token=7d5Ng8aNCS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrSmtd9e5PUv7FllnU17txSaDGE.jpg" group-title="VOD - VOD Movies",ভয়াল - 2024
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1744109.mp4&play_token=X6Dp58Tq99&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gbZh1S735CLz7NwFRb7bycUWkP.jpg" group-title="VOD - VOD Movies",The Bengal Files - 2025
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1741311.mp4&play_token=rRd6NQHE3O&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWoYzxSa3bPc70BNmdZxKlOZTlSUPpJI7PQ&s" group-title="VOD - VOD Movies",┃BANGLA┃Tajmahal (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1740531.mp4&play_token=Rk34x2MrJH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQt2Dfpu8AjZ7sI4tcRRiC6p5j.jpg" group-title="VOD - VOD Movies",সারার সংসার - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1740341.mp4&play_token=BvfEPjX2KM&type=movie
+#EXTINF:-1 tvg-logo="https://blockbusterbd.com//uploads/movies/posters/sardar-barir-khela-1204682231778166157.png" group-title="VOD - VOD Movies",┃BANGLA┃Sarder Barir Khela (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1739665.mp4&play_token=DbYZqNAa3k&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6nITbbSobZ0EwU6Dcw6LGZOZYA.jpg" group-title="VOD - VOD Movies",বনলতা এক্সপ্রেস - 2026
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1737363.mp4&play_token=IVioLyCMnK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2fCCiq14zbk7VGyUAgZvqIMxr6.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Rakkhosh (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1735960.mp4&play_token=OHARqvqfXV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOJg5L4YXmeZxSYqpTZI8LMfdQk.jpg" group-title="VOD - VOD Movies",┃HINDI┃Domm (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1735224.mp4&play_token=QDU3xV57eL&type=movie
+#EXTINF:-1 tvg-logo="https://banglaplex.lat/uploads/video_thumb/3954.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Bibi Bakshi (2026) (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1735223.mp4&play_token=PEPsH7iDdB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xs574v4F6OPysyfzmwBh6AbPdN.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Soohe Ve Cheere Waleya (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1733959.mp4&play_token=4k2ADkNlUx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Kaalidas 2 (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1733958.mp4&play_token=haeVisllSr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0cN2eql2NRc4CzyRpTuAiQpRWv.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Mathru (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730827.mp4&play_token=ic8DbLRyBB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdEWBpXscXN6MNUFi6NJhZaSiR5.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Maadeva (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730826.mp4&play_token=w7B16EnrmP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c400UHZu3aqRPqOZlcHm7crliB.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Love U Muddu (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730825.mp4&play_token=VBaqoucaPy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upUB6qQVrAQ3jUUSUkDFOfGFdQn.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Lockdown (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730824.mp4&play_token=U57WtwjRUb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsMHfc75OJmdRYKsgJlALDVyMGz.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Oru Durooha Saahacharyathil (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730823.mp4&play_token=kQC8fq5Zd8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Vaazha II (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730280.mp4&play_token=wHBaHBW6YZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97jAFQcAnspd416cupbAbGMNT9z.jpg" group-title="VOD - VOD Movies",┃BANGLA┃The Kerala Story 2 (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730279.mp4&play_token=jNljcL5eoZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNkylZZAHTivoFZbtb4VzKm4fb.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Super Hit (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730101.mp4&play_token=Jl2hnOTu0N&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OHAR38PPh0QLyJDkRHJaF49zhl.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Love Mocktail 3 (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730100.mp4&play_token=r7Ekc8NESj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bFY9bvsjPeB6jNIpZFZgwy78uF.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Laalo: Krishna Sada Sahaayate (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730099.mp4&play_token=wUW9gtMSug&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoswfeiBUEnWzBfixEvRbCUIwpV.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Krantijyoti Vidyalay Marathi Madhyam (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730098.mp4&play_token=sJYJi7CR9Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxNJzRszqYgRSdWlyyXUJD0RHm4.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Justice for Jeni (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730097.mp4&play_token=mh0TOPo8gh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Dacoit (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730096.mp4&play_token=Bl1AYlQMET&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Bharathanatyam 2 Mohiniyattam (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1730095.mp4&play_token=0elQnQiBm2&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT993qUqEV2iylJCn0JCn1q71T3WJVtky6MeQ&s" group-title="VOD - VOD Movies",┃BANGLA┃Sulabh complex (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1729115.mp4&play_token=WKHuv7pqAf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Vu4M5KiA9EuWRBxd3Xn55oVXJ.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Dhumketu (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1729114.mp4&play_token=iS0uHk5jAr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWILkLfZAcuNkgOSZ5kqsZn4VZB.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Kona (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1726774.mp4&play_token=OLJVK2BPp3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Karikaada (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1726773.mp4&play_token=S0tAaMX5X3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pkcjPJBjAZzt9VSeNFZFZFRVBR.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Saralakkho Holmes (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1718495.mp4&play_token=oGyV32AWXX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8m2hgXTSFH2ixmXTuBg4v6yzS4x.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Tobu Bhalobashi (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1706422.mp4&play_token=nvMFFcbBgh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBwYUoeTEKWQnsslmbGlKUxd2rI.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Tilottoma (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1706421.mp4&play_token=zGgY23wVNd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOykDJpnf5dY1yUDkzhLpmXCtR0.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Utsaber Ratri (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1705908.mp4&play_token=5iDXHNiFwk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9731fuDfDEifBuudaUcs8Uzl8uS.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Bhanupriya Bhooter Hotel (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1702825.mp4&play_token=HCjZJU6tys&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xFz5sMJ3Zn5zWb3fMfUCZlLGsU1.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Cha Gorom (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1702621.mp4&play_token=L5b17L1xly&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkWLYNigVnnV1rd3aoFStTsa5rdvomYi_Wg&s" group-title="VOD - VOD Movies",┃BANGLA┃Tumi Ami Shudhu (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1702616.mp4&play_token=SAjFojKC3Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dojHviITdqhdHCNOKKhlGTF9l33.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Bhaggyo Lokkhi (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1700221.mp4&play_token=sLgIqdl4pi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxIYjJwNIGC7DFaphxJcWH06Fac.jpg" group-title="VOD - VOD Movies",┃BANGLA┃BhutOPurbo (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1692593.mp4&play_token=SG4p0ZgGKh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPU0QGXdK26qDG886gstiP5HQPY.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Projapati 2 (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1686582.mp4&play_token=3MKylbIbtk&type=movie
+#EXTINF:-1 tvg-logo="https://bdmovieplay.com/wp-content/uploads/2026/03/Love-Sitter-Web-Film-2026-Poster.webp" group-title="VOD - VOD Movies",┃BANGLA┃Love Sitter (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1684353.mp4&play_token=lFGSXwLevH&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRhYWJlMDEtZTRiNC00NDI5LWIwZjItY2RhOTkwNjRkNDY3XkEyXkFqcGc@._V1_.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Ali (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1683825.mp4&play_token=9CjZAzUmbp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv3gqXkQL5tMWRQiR9UVPblpEEI.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Blink (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1683824.mp4&play_token=clwvDoveFF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8yTY1o45qdQWZoKofRBTfCyb3o.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Ekshathe Alada (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1681405.mp4&play_token=tTjfiETZd6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgKErURHf3KfzEHJyRcJpOecja8.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Chandrabindoo (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1680063.mp4&play_token=Sa6jgx9tJw&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZTY0YWYtZWZmMC00ZmM2LTg4NTktY2RlNTRmNDU3MzhiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Lawho Gouranger Naam Rey (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1677199.mp4&play_token=WQzDGyPIyb&type=movie
+#EXTINF:-1 tvg-logo="https://image.chorkicdn.com/uploads/images/2026/03/02/posters_dc3ae20b2b8838d88c6dca25c74d0b82_goplay_800_1200.jpeg?w=640&q=75" group-title="VOD - VOD Movies",┃BANGLA┃Meu (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1668468.mp4&play_token=TENqwOdloJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llvaVPyXt43GSCaEbORrjRtIAOR.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Oporichito (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1660788.mp4&play_token=2FJ0KNIzrc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quscZPqxTPUdXgemvVIoePk7znI.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Nana Hee (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1660787.mp4&play_token=7sW3mpnHid&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfj6SLSzbzHN2633HcqabHFJz5y.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Mana ShankaraVaraPrasad Garu (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1660786.mp4&play_token=cRoZCjGteR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fb5ao0wON2Dq3atOy3rikyL8IsP.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Lucky the Superstar (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1660785.mp4&play_token=k9JcigGpeh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1fKJix8x2VZjpJg2gi37OApmw0.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Hridita (2022)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1660784.mp4&play_token=gjtC9C0wLk&type=movie
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b3259554-6265-4d92-9a69-d8379dc87831/54b6866c-dd43-404a-9b18-7635640d6d57.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Gyani Goni 3 (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1660783.mp4&play_token=EvhRgIOsHH&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVkZTQ5MzItMTdkYi00MWJmLWIzZDAtYWRhZGQ2OTBjOWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Danter Lorai (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1660782.mp4&play_token=Pao7K0dCct&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZhY2JmMzMtMmQ5Zi00YmNjLTllZTEtZWU2MzgwN2Q3ZGNiXkEyXkFqcGc@._V1_.jpg" group-title="VOD - VOD Movies",┃BANGLA┃Bachelor in Trip (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1660781.mp4&play_token=c2IavON36d&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6M1QaaoTdlfQcPQFXWcOWOmUK5V.jpg" group-title="VOD - VOD Movies",┃IN┃Kirtaner Por Kirtan (2026)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1601487.mp4&play_token=9w0hczFRo3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqAzNuR0N5zKeUseUEu0PRLori2.jpg" group-title="VOD - VOD Movies",┃IN┃Vijaynagar'er Hirey (2026) (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1595456.mp4&play_token=w49A48nmkA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr98r1QX0F7mjilCr96SnPGqamK.jpg" group-title="VOD - VOD Movies",┃IN┃Joto Kando Kolkatatei (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1552210.mp4&play_token=ayggDYse98&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpgMmszzYOicj6xPNfeiVZlgUYM.jpg" group-title="VOD - VOD Movies",┃IN┃Ayu Rekha (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1526678.mp4&play_token=4UiP3UcMSX&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYzMDdjMTgtMjBlYS00N2JhLTg3ZmYtNWJjNDQ0MWFkOWFmXkEyXkFqcGc@._V1_.jpg" group-title="VOD - VOD Movies",┃IN┃Nerve (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1519119.mp4&play_token=bMfzZPsjS0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S4Jlirr3TldceHOOgBZ0FeZeVz.jpg" group-title="VOD - VOD Movies",┃IN┃Ranna Baati (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1519117.mp4&play_token=U1JedZ9dEp&type=movie
+#EXTINF:-1 tvg-logo="https://enwhmgiyknf.exactdn.com/wp-content/uploads/2024/09/Screenshot-2024-09-05-122332.jpg?strip=all&lossy=1&ssl=1" group-title="VOD - VOD Movies",┃IN┃saba (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1495953.mp4&play_token=3leCtTMebb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8DsTUtmn7fVmx5tZihoOacZGMv.jpg" group-title="VOD - VOD Movies",┃IN┃Omimangshito (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1483514.mp4&play_token=VqlJslzBjj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pusGs1xtqN6du26hC0fFavF22Qy.jpg" group-title="VOD - VOD Movies",┃IN┃Aranyar Prachin Probad (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1478791.mp4&play_token=Fh1fUfQ8DG&type=movie
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uLfxSk4sdgo/hqdefault.jpg" group-title="VOD - VOD Movies",┃IN┃Noor (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1477293.mp4&play_token=vuU13RBvLA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2sCgNY0xv3hPUeX3DCfoPmJb9h.jpg" group-title="VOD - VOD Movies",┃IN┃Antoratma (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1467259.mp4&play_token=buIQ1lVIOu&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJtWsRLgHbbyDKGLC0_YWcst_EacU5Wno7Q&s" group-title="VOD - VOD Movies",┃IN┃Divine Justice (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1463939.mp4&play_token=1rGZQXqt2R&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY1Y2VlMmQtMTcyNy00NzcyLTkyZjUtZDZhNDVkNTU5OTM4XkEyXkFqcGc@._V1_.jpg" group-title="VOD - VOD Movies",┃IN┃Srabon Josnay (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1460522.mp4&play_token=U3ZBAd6TiC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MqXT0ELX5xEhZC1lBERQjOuihy.jpg" group-title="VOD - VOD Movies",┃IN┃Raktabeej 2 (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1459680.mp4&play_token=vWX7fLu0ew&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWAasgksJOtbQuKXrDYGpDHcY5y.jpg" group-title="VOD - VOD Movies",┃IN┃Bismillah (2022)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1459679.mp4&play_token=GzadcQh23H&type=movie
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/rudra-et00447583-1750158409.jpg" group-title="VOD - VOD Movies",┃IN┃Rudra (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1442889.mp4&play_token=FfzuLFlIpL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ4OfLg7hWiQsRc0VFIX7JPh16B.jpg" group-title="VOD - VOD Movies",┃IN┃Putulnacher Itikatha (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1437345.mp4&play_token=SapPyn4T7P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQFePrp579Y9npVe91Elw3nyCum.jpg" group-title="VOD - VOD Movies",┃IN┃Neel Chokro (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1437342.mp4&play_token=N1ZMroTDU8&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJPJVRLRmB6Ndtvg4KiGMZP5U8NjFJn-bMw&s" group-title="VOD - VOD Movies",┃IN┃Tomar Jonno Mon (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1422900.mp4&play_token=BdO9fsvIDe&type=movie
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/shree-durga-et00467696-1761112541.jpg" group-title="VOD - VOD Movies",┃IN┃Shree Durga (2025) (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1421158.mp4&play_token=MV7hRsqLNY&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3__fR2VcnQSXJo9VF3wnipsi8RyGZXJy-xw&s" group-title="VOD - VOD Movies",┃IN┃PORIIMONII (2025)  (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1421156.mp4&play_token=YL9ru9kM5R&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bw5Htwc8ChPruXWTZzIuz9dHagd.jpg" group-title="VOD - VOD Movies",┃IN┃Tento (2024)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1414111.mp4&play_token=RDxevtBG8Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlKOmmIj7TeIH4DSyO1uATAzuc8.jpg" group-title="VOD - VOD Movies",┃IN┃Sharthopor (2025) (Cam)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1405584.mp4&play_token=QwtWcHpjtS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7KllUDi0JvNAIpJTWlQg0qEwbf.jpg" group-title="VOD - VOD Movies",┃IN┃How Are You Feroz (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1404189.mp4&play_token=50E233lzvW&type=movie
+#EXTINF:-1 tvg-logo="https://banglaplex.bond/uploads/video_thumb/3416.jpg" group-title="VOD - VOD Movies",┃IN┃Plan B (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1399477.mp4&play_token=kyPxTMjwqJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mRBuaEPaix3AAtPZdsH7IszYHP.jpg" group-title="VOD - VOD Movies",┃IN┃Grihapravesh (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1398130.mp4&play_token=pqgSfGX5LH&type=movie
+#EXTINF:-1 tvg-logo="https://banglaplex.bond/uploads/video_thumb/3414.jpg" group-title="VOD - VOD Movies",┃IN┃Perfect Wife (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1397332.mp4&play_token=vVY0GVjmph&type=movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRlMmNhZTMtMDRhMi00ZmQ0LTlmMGItMWNkZGQzNzcwYjc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD - VOD Movies",┃IN┃Amar Sesh Kotha  (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1397331.mp4&play_token=q0Q5NokpAe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WHfi6wEFCe13v1yw0LvTvk0O26.jpg" group-title="VOD - VOD Movies",┃IN┃A Tale of Two Sisters (2023)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1389279.mp4&play_token=euPRhyWynn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBrcnPw6vuTE0jNAOKnDxuVSdkk.jpg" group-title="VOD - VOD Movies",┃IN┃Madam Sengupta (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1383668.mp4&play_token=cXSEts3YsR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bS8n0BkdCuB7TL6d3R0S5MpYPXl.jpg" group-title="VOD - VOD Movies",┃IN┃Gerakol (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1379132.mp4&play_token=Jw7sBshnEo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34l2bzWie574ueE8SPHBkWcdKQN.jpg" group-title="VOD - VOD Movies",┃IN┃ Little Miss Chaos (2025)
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=1377767.mp4&play_token=ePGzg2SDfm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv8FwLbkt7dGHE35r7HdiWtedTr.jpg" group-title="VOD - VOD Movies",┃IN┃ The Endless Trail
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798108.mp4&play_token=etKnuT2HA7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Golam
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798107.mp4&play_token=OmCTVQpF6U&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Gohine shobdo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798106.mp4&play_token=1M8DRjlE5Q&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1ZM6Suux6gFKO2vEKmyvL9PUR5.jpg" group-title="VOD - VOD Movies",┃IN┃   Glamour
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798105.mp4&play_token=iDljxt3Tij&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Girlfriend
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798104.mp4&play_token=kK5jbILTle&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r36eI13Z71xWMGFIgudqWa5EOg.jpg" group-title="VOD - VOD Movies",┃IN┃ Ghuddi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798103.mp4&play_token=j3pzvktjAN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ghrina
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798102.mp4&play_token=pAHo9O4Ogy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Ghoroni
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798101.mp4&play_token=Ejm79fuGYP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Ghorer shotru
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798100.mp4&play_token=HQVKlYh4as&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ghorer lokkhi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798099.mp4&play_token=8Vk0sdYVSJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qw3EL3E8q2mWOfcNVytKKcfmcg.jpg" group-title="VOD - VOD Movies",┃IN┃Ghatkali
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798098.mp4&play_token=8FM3eg3hYw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Ghatak
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798097.mp4&play_token=sjEMRMN2bz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Gharer bou
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798096.mp4&play_token=zWlE20M9uV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8NgQMeFfqpfRrrC7grQKofzKS9.jpg" group-title="VOD - VOD Movies",┃IN┃ The Home and the World
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798095.mp4&play_token=X7WbPKk6Hv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Ghar jamai
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798094.mp4&play_token=1tWvVtdrhd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csvtIeviNwTOtZ479mf8Qk8S7Nx.jpg" group-title="VOD - VOD Movies",┃IN┃ Generation Aami
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798093.mp4&play_token=hz4PAZUP75&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃Gate 2 gether
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798092.mp4&play_token=eXQG475RWB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Garmil
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798091.mp4&play_token=tmGTkuZB2u&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Garments konna
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798090.mp4&play_token=4OY2mC4PSm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Gangster
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798089.mp4&play_token=aYaaatTFh3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Gaj ukiler hatya rahasya
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798088.mp4&play_token=rMZphGuzHL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃Ful ar kata
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798087.mp4&play_token=EzfmwcvS0s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Flop e
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798086.mp4&play_token=DkEEipw30J&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Pb3Hgof3AqpAv5CyQIV8JuX2DZ.jpg" group-title="VOD - VOD Movies",┃IN┃ Flat No 609
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798085.mp4&play_token=Rzeog4aqWk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Ferari fouj
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798084.mp4&play_token=JDw3bDGVh3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciPlzqkvZMMXI9ciQCqxJfP9WUD.jpg" group-title="VOD - VOD Movies",┃IN┃ Felunather Marksheet
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798083.mp4&play_token=s5xNv4qoDm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Faisala
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798082.mp4&play_token=vOvaQLS7ot&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMZUAqVOwZITpXCR6ytPFZSXj3k.jpg" group-title="VOD - VOD Movies",┃IN┃ In Spring Breeze
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798081.mp4&play_token=pNwslv1Tsw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃Faand the trap
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798080.mp4&play_token=fATILNlPLt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Eve teasing
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798079.mp4&play_token=MlniQ48ta6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Eti
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798078.mp4&play_token=QFKmENGunh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Etai Swarga
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798077.mp4&play_token=fpptZl1OJw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Eri naam dosti
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798076.mp4&play_token=fZbuTDeVZW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Epar opar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798075.mp4&play_token=q78kneMZUe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ektu choya
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798074.mp4&play_token=KLrDLljNWr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evrbl0ztaKQO73GXTmS6g4gcvLM.jpg" group-title="VOD - VOD Movies",┃IN┃ One Night
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798073.mp4&play_token=aL9yWSXbrh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ekjon songe chhilo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798072.mp4&play_token=KRayhqUJej&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ekhoni
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798071.mp4&play_token=GhhebSJkJJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rTvVy8DQ4FfxJGodP2BFMDN6q0.jpg" group-title="VOD - VOD Movies",┃IN┃ Ekhane Pinjar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798070.mp4&play_token=IkrDZoKlyF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Ekbar bolo bhalobashi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798069.mp4&play_token=uPtmHB12Q2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmigmEHwWET3a4jfbLKLiuqt9bi.jpg" group-title="VOD - VOD Movies",┃IN┃ Ekai Eksho
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798068.mp4&play_token=n19nVsvnoT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃Ek takar denmohor
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798067.mp4&play_token=nQhLeCUXP5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ek rokha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798066.mp4&play_token=CGOUe4SRQy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃Ek pashia brishti
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798065.mp4&play_token=yokjuoJuwV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Ek nadir galpo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798064.mp4&play_token=P7120mXdMr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ek Mutho Chabi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798063.mp4&play_token=vJjxXLeRR6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃Ek mutho bhat
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798062.mp4&play_token=T3aBuDWX6s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4XCx17o9LAZUZxOQblwa72wRmV.jpg" group-title="VOD - VOD Movies",┃IN┃ Ek Mon Ek Pran
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798061.mp4&play_token=uQxcywLiEq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ek joban
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798060.mp4&play_token=Gd4nfmO4jP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTAhkFpqaHQ8rCPkF4NP2fZxSgX.jpg" group-title="VOD - VOD Movies",┃IN┃ The Girl
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798059.mp4&play_token=jUiac180Fx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ek buk jala
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798058.mp4&play_token=lv0Z13e6G2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ek buk bhalobasha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798057.mp4&play_token=LJ6VYKYEPF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Eito valobasha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798056.mp4&play_token=dfLc6CX7d9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Eito prem
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798055.mp4&play_token=v4GkAQ6JMh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V4h5LtR2Uyp2AqlWGCt1PZEX8l.jpg" group-title="VOD - VOD Movies",┃IN┃ Ei Prithibi Tomar Aamar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798054.mp4&play_token=9udvJ2cdHq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ei mon tomake dilam
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798053.mp4&play_token=Fq25MXd1mf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ei mon chai je
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798052.mp4&play_token=H4AYt3PMfi&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ei ghar ei sansar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798051.mp4&play_token=8J3Rgp6OnQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ebong tumi aar ami
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798050.mp4&play_token=NZcntJfaYn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ebadot
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798049.mp4&play_token=TcW24eIXd0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Ebadat
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798048.mp4&play_token=mfN85XgQPs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ East bengaler chele
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798047.mp4&play_token=UWnD6Z6CTN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hx6rJIyZW0G4tBZeAIbpIqH4NEq.jpg" group-title="VOD - VOD Movies",┃IN┃ Dynamite
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798046.mp4&play_token=4jXf85K32b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndaOFeaFnd2QaZsWFyztxmLSK8u.jpg" group-title="VOD - VOD Movies",┃IN┃ Dutta Vs Dutta
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798045.mp4&play_token=fwP1xrKbQh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Duti mon duti asha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798044.mp4&play_token=2cd5IPUGjo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dushmon duniya
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798043.mp4&play_token=aoMnWp3lzR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4us8dIOmktEm99ZnexuHZssHgTA.jpg" group-title="VOD - VOD Movies",┃IN┃ Durga Sohay
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798042.mp4&play_token=cQaQgq3tGc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Durer nadi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798041.mp4&play_token=NdcjpynFYk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Durdhorsho
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798040.mp4&play_token=wufLtqzJOE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Duniar badsha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798039.mp4&play_token=P77DEN3Cx2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dulabhai zindabad
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798038.mp4&play_token=CUqndiAx3p&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijt4uzmIV9toeDGIrA93RnFvnfV.jpg" group-title="VOD - VOD Movies",┃IN┃ Dujone
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798037.mp4&play_token=vNv0iKvLoT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dujon dujonar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798036.mp4&play_token=R0HPYOun0v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dui purush
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798035.mp4&play_token=IvrJZMWwKh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dui prithibi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798034.mp4&play_token=FCrLNYeeKJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaa5NYIUf9HXZCNlYwomexBSoOT.jpg" group-title="VOD - VOD Movies",┃IN┃   Dui Prithibi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798033.mp4&play_token=LODI81RtQ3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dui poysar alta
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798032.mp4&play_token=IR8kue5LAf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dui number
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798031.mp4&play_token=qtN9DjwhSj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv4siY647kBDfIM1TuhUavUVI8f.jpg" group-title="VOD - VOD Movies",┃IN┃ Dui Noyoner Alo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798030.mp4&play_token=ahcETEcz82&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Dui jibon
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798029.mp4&play_token=7UPdv1VlDw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Dui bhai
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798028.mp4&play_token=WsFyNhcjlF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/965VvKrjfMRWeBITpHa6X5hd3Zp.jpg" group-title="VOD - VOD Movies",┃IN┃ Double Feluda
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798027.mp4&play_token=SkXAXXOD7I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dost dushman
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798026.mp4&play_token=8gRsg9GYl5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dossu bonhur
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798025.mp4&play_token=Z5iRzIR2X4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dosshu
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798024.mp4&play_token=1kHQFIX1lG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dosar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798023.mp4&play_token=8jQz9Hyw9T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dora
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798022.mp4&play_token=1onAF2115L&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Don number one
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798021.mp4&play_token=bgOu7ABGJX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dolopoti
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798020.mp4&play_token=WtWwEvwRoh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dolon chapa
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798019.mp4&play_token=aQ8vdVVZvt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dola
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798018.mp4&play_token=LAovlQvtti&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dohon
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798017.mp4&play_token=A3yxAOqDHf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dobir saheber songsar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798016.mp4&play_token=WRjGQbZBvq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Disco dancer
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798015.mp4&play_token=T0WUgbk7yb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gz1HkpZhwWpyuual7eytb5CBj9.jpg" group-title="VOD - VOD Movies",┃IN┃  Dipu Number 2
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798014.mp4&play_token=V8nJroKyy6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Din jay kotha thake
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798013.mp4&play_token=6RjmWABxS8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZOhAcXSEW0h7sQ5KNk1p23hpq3.jpg" group-title="VOD - VOD Movies",┃IN┃ Din Jai
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798012.mp4&play_token=g4O7Rw8HzS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dhusar Godhuli
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798011.mp4&play_token=7trhTZw76A&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dhor soytan
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798010.mp4&play_token=81OkwOggRH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dhoni goriber prem
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798009.mp4&play_token=KPLEzEreiN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Dhoka
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798008.mp4&play_token=zXfott2DTN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dheu Er Pore Dheu
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798007.mp4&play_token=ROktxDL7oE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Dhawa
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798006.mp4&play_token=J5miLZyAvj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYqvw64V76ynUXo19tJ3C09ASmN.jpg" group-title="VOD - VOD Movies",┃IN┃ Dharasnan
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798005.mp4&play_token=TVmKG8lSsD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dharapat
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798004.mp4&play_token=QTge2IywkH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dhakaiya pola borishaler maiya
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798003.mp4&play_token=KQwaoWnWzy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Dhakaiya mastan
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798002.mp4&play_token=FXrKbcvHjy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM8zTkAKrxtQmlZqLO8ZTiaOgeY.jpg" group-title="VOD - VOD Movies",┃IN┃ Devdoot
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798001.mp4&play_token=zbhyNBk0l6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Devdas
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=798000.mp4&play_token=ny1ihyOEUg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃     Devdas
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797999.mp4&play_token=pODwSe0WVo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Deva
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797998.mp4&play_token=cRsBk8t6ZC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Desh premik
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797997.mp4&play_token=XUssFY5iYK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Desh
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797996.mp4&play_token=lAwdD1V6DO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Den mohor
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797995.mp4&play_token=MSosSc1FcD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dekha holo dujonay
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797994.mp4&play_token=r984U8o90z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rdcjVK2IutEPYdf1p7G2n4vrOq.jpg" group-title="VOD - VOD Movies",┃IN┃  Dehorokkhi: The Bodyguard
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797993.mp4&play_token=zh58LOUdmM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSrtmgczjP5KjBMVW5z8al47IgV.jpg" group-title="VOD - VOD Movies",┃IN┃ Deep Nebhe Nai
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797992.mp4&play_token=RhGwmTmoSv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Debibaran
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797991.mp4&play_token=XGS0JCFsVF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Debar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797990.mp4&play_token=U67c7cQJnh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Debanjali
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797989.mp4&play_token=qaav7MgDE4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dayi ke
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797988.mp4&play_token=ihz312tzaX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Darowaner chele
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797987.mp4&play_token=7Zt0qVowR1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃Daring lover
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797986.mp4&play_token=eIgA7qjMco&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Danger
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797985.mp4&play_token=u7pLY2BwsI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Danga
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797984.mp4&play_token=Y96rIOCjZw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Damu
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797983.mp4&play_token=OUnY5B1EgT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Dampati
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797982.mp4&play_token=alcDPdDuX3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Damadol
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797981.mp4&play_token=zPtGj5ldnD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Daku rani
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797980.mp4&play_token=eBa8IXx2MH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃Dakat
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797979.mp4&play_token=TFz5r7bEMq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Dahan
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797978.mp4&play_token=o4x6AQccxl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOAQPgYgJSNzkAj0kpfXHtH9iw5.jpg" group-title="VOD - VOD Movies",┃IN┃  Affliction
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797977.mp4&play_token=MfqPEIGGJ1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dadu No. 1
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797976.mp4&play_token=WUk1V0vgOs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dadima
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797975.mp4&play_token=eOTZ7wpngQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buaBAnbhpsQv48fK8ambZYXiWMU.jpg" group-title="VOD - VOD Movies",┃IN┃ Dadar Kirti
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797974.mp4&play_token=iqKY1W2r6X&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Dadamoni
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797973.mp4&play_token=QFcDup7On2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEG2hW5dl7xXrlVxFC5X5LsKjLo.jpg" group-title="VOD - VOD Movies",┃IN┃ Cross Connection 2
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797972.mp4&play_token=4F4fx88VwI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃       Criminal
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797971.mp4&play_token=2cwoHva3F8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Crime road
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797970.mp4&play_token=5Kf7G0mgNf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daVwy7uxCoJrMSMZyTXCZjr1Osj.jpg" group-title="VOD - VOD Movies",┃IN┃   Common Gender
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797969.mp4&play_token=2lIkwpjGHW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Commander
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797968.mp4&play_token=dlwU3ptQXk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Cobra
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797967.mp4&play_token=yVb5ez4U0B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ City terror
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797966.mp4&play_token=15apjKpNmt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Kalmilata
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797965.mp4&play_token=mFKzVFJP4c&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Kallu mama
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797964.mp4&play_token=i9SD92zRLA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0NuMFqJVU85GTuR1BZm5FMuoPf.jpg" group-title="VOD - VOD Movies",┃IN┃ Never Came
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797963.mp4&play_token=EAAhP7dDeV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Kajer meye
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797962.mp4&play_token=4Ifff1XXbl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Kajer manush
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797961.mp4&play_token=FcJosfKo99&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Kabin nama
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797960.mp4&play_token=WpSPQKNnN2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Kabin
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797959.mp4&play_token=jGMV4Cu5vX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Kaal sokale
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797958.mp4&play_token=YuRsSjIOv2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ka Kha Ga Gha Umo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797957.mp4&play_token=mFbCA3cQtT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jyoti
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797956.mp4&play_token=MrIfEnkvIZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Judge saheb
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797955.mp4&play_token=0PrTQg3kIP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Judge barristerr
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797954.mp4&play_token=K1qUYzgBKk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Judge barrister police commissioner
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797953.mp4&play_token=v9OeDeAIP5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Juddhe jabo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797952.mp4&play_token=s2xxXypxGZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Juari
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797951.mp4&play_token=pFiHyDYbLI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Joyjyanti
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797950.mp4&play_token=2DlHFaNamj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Joy porajoy
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797949.mp4&play_token=zZFVriMLj3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jotil prem
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797948.mp4&play_token=1ZRQudbs4n&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Xw8o3CADoxMNii0HpA0TOjVQuX.jpg" group-title="VOD - VOD Movies",┃IN┃ Joradighir Chowdhury Paribar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797947.mp4&play_token=EyIf3myOaV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jor kore balobasa hoy na
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797946.mp4&play_token=IUZOmALhDW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jor
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797945.mp4&play_token=uC4PnkWNbD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jontor montor
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797944.mp4&play_token=o4RRhmktfb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jonom jonomer prem
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797943.mp4&play_token=TNsNs2zmSU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jonom jonom
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797942.mp4&play_token=zYT03O3yaB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jonmo tomar jonno
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797941.mp4&play_token=IjyjOO4MK7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jonmo theke jolchi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797940.mp4&play_token=k442Fk1w59&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jonmo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797939.mp4&play_token=bNBCRfUPb1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jonakir aalo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797938.mp4&play_token=O5E4VpQrtq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jomoj
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797937.mp4&play_token=hZUfERLmyl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jomidar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797936.mp4&play_token=IwLHN0HJEj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egetSB9WdWt3S0lu7P8AuUNTrJ.jpg" group-title="VOD - VOD Movies",┃IN┃ Jomer Raja Dilo Bor
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797935.mp4&play_token=pcpStA2tws&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jomdut
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797934.mp4&play_token=5BqriHUHfI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Johnny
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797933.mp4&play_token=hcQjQscIrY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jogajog
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797932.mp4&play_token=bsnlf83BhV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jobab
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797931.mp4&play_token=HEefxYVQm7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Joar elo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797930.mp4&play_token=4Tdnss8zQx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d6DXkv2Jyj88qOu8IjAp9VUunq.jpg" group-title="VOD - VOD Movies",┃IN┃ Jio Pagla
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797929.mp4&play_token=wDhRF9My3B&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jinjir
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797928.mp4&play_token=6lPshE26GV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jiboner golpo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797927.mp4&play_token=CHl45WGGGQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jiboner cheye dami
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797926.mp4&play_token=CynODTSzzU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jibon songsar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797925.mp4&play_token=DlJn6jyk7h&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jibon songi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797924.mp4&play_token=eJZ86W1kEv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jibon Nouka
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797923.mp4&play_token=Jk5m0PNnY1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jibon mane juddho
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797922.mp4&play_token=MAGMejc8tl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2YklUmPzULICTuzjxZgjnQmBUS.jpg" group-title="VOD - VOD Movies",┃IN┃ Jiban Trishna
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797921.mp4&play_token=woDIOXs8uP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDYBUTB7RZxKNIJ6cO3Bhls2P7.jpg" group-title="VOD - VOD Movies",┃IN┃ Jhumura
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797920.mp4&play_token=e5Al4AjKHu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jhorer pakhi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797919.mp4&play_token=76O19drnc9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jhor
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797918.mp4&play_token=s1CHyAgRN3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jhontu montu dui bhai
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797917.mp4&play_token=sJx498W0CL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jawab chai
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797916.mp4&play_token=gubzwvPi7P&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKovS57xAx6MmvOQgt6JVPhMRWE.jpg" group-title="VOD - VOD Movies",┃IN┃ Jar Je Priya
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797915.mp4&play_token=toXr4iNy3F&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃    Jannat
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797914.mp4&play_token=WOWxj32Rk3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Janmadata
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797913.mp4&play_token=8H4SgoM1u1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v0l6ZRmn0mWiKDRWzJ7E7vM4ML.jpg" group-title="VOD - VOD Movies",┃IN┃  Janla Diye Bou Palalo
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797912.mp4&play_token=eFQ6iTEe3o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Janer jaan
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797911.mp4&play_token=fDVFEiEaCR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj2D1fCEHJMT0dgyUHUzYb50j1J.jpg" group-title="VOD - VOD Movies",┃IN┃ Janatar Adalat
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797910.mp4&play_token=yQpVm6M5kZ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jamai No. 1
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797909.mp4&play_token=c6yLbx2goI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckbt1I1ut29CWSMGMBkdPPhFlzg.jpg" group-title="VOD - VOD Movies",┃IN┃ Jamai Badal
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797908.mp4&play_token=BqwA1nJbf8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jamai
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797907.mp4&play_token=fJprn7l78i&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbcOKg8wGA3zCSiCFdeL2xDbd7v.jpg" group-title="VOD - VOD Movies",┃IN┃ The Music Room
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797906.mp4&play_token=NURv6GArRz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jadur bashi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797905.mp4&play_token=iPSnegkjYn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jadu Bansha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797904.mp4&play_token=cxQihOv9L4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkLrimITzOoOvuAUBHbyGO0tkDK.jpg" group-title="VOD - VOD Movies",┃IN┃ Jaatishwar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797903.mp4&play_token=G2QDxDhDH9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jaat shotru
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797902.mp4&play_token=qNyWxM3nBY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃    Itihaas
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797901.mp4&play_token=jQzfPpnDiF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6VI7FWad6boEZvUvGFDltQj6ih.jpg" group-title="VOD - VOD Movies",┃IN┃  Iti Mrinalini: An Unfinished Letter...
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797900.mp4&play_token=jvlYl2Sqhv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Iswar parameswar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797899.mp4&play_token=r4Ji2mxNdu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M9e6meIoGjahU0TR9oa6q6K2bM.jpg" group-title="VOD - VOD Movies",┃IN┃ Indrani
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797898.mp4&play_token=qlA8jxiUBp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y7qqKZ8ABLYm3QECJUktt2MNlr.jpg" group-title="VOD - VOD Movies",┃IN┃ Indrajit
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797897.mp4&play_token=4gCO46kaNC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Incomplete
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797896.mp4&play_token=spp2TJi2br&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHCDzxztLXHPV4jH7RQ7aqyzVq7.jpg" group-title="VOD - VOD Movies",┃IN┃ Inchi Inchi Prem
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797895.mp4&play_token=FpJvdbQGW2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLPRkkZ1x6gCZjbsFd1MaeQA3u.jpg" group-title="VOD - VOD Movies",┃IN┃ In Search of Famine
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797894.mp4&play_token=dm3dDG1OJc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Idiot
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797893.mp4&play_token=1bLEYkew6x&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Iblish
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797892.mp4&play_token=oqtgdwjaGp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   I love u
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797891.mp4&play_token=pjcLyNegjl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ I dont care
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797890.mp4&play_token=p98S27jfjP&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃    Hungama
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797889.mp4&play_token=Nep6Px4aUB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Humkir mukhe
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797888.mp4&play_token=zwUBh9D5ym&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Hridoyer bashi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797887.mp4&play_token=GMlFiY859E&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Hridoyer bandhon
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797886.mp4&play_token=hM5tzIXWXh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hridoyer ayna
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797885.mp4&play_token=FKQbW9820r&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hridoye lekha nam
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797884.mp4&play_token=4fMmBWYpHk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hridoy shudu tomar jonno
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797883.mp4&play_token=a7g8NE7vzS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hridoy amar naam
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797882.mp4&play_token=Cs2dsCx4zt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Holud pakhir dana
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797880.mp4&play_token=W5tW4NKwhA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3lP023szpFOLleg7Ncpdo0eh9A.jpg" group-title="VOD - VOD Movies",┃IN┃ Hoichoi Unlimited
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797879.mp4&play_token=XX1T5lFz7Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hoichoi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797878.mp4&play_token=8Egm0ATPuC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hit list
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797877.mp4&play_token=z63sM1bzk4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hirer shikal
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797876.mp4&play_token=PNQsXnXoKW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPYnj9Jp2lkE0NploBm7PFEwYG7.jpg" group-title="VOD - VOD Movies",┃IN┃ The Diamond Ring
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797875.mp4&play_token=mtqaQJiqIQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hira chuni panna
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797874.mp4&play_token=kyrzSBcGKW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hingshro manob
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797873.mp4&play_token=EIQR8TAeZb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hingshar poton
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797872.mp4&play_token=2e2lSi5FQO&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hingsha protihingsha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797871.mp4&play_token=FLjdHqPR0s&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Himmat
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797870.mp4&play_token=usLLFY4QUj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sboIxtXvRemQMrngJM1Gt8TLS8.jpg" group-title="VOD - VOD Movies",┃IN┃ Himghar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797869.mp4&play_token=QRL31Gc7xL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Herbert
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797868.mp4&play_token=lWCB5ggoBl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hay prem hay bhalobasha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797867.mp4&play_token=JBZk4ldvtf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hathiyar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797866.mp4&play_token=WLLCACCOjC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hate raila tin
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797865.mp4&play_token=Y8tfO7fJ7v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hason Raja
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797864.mp4&play_token=hQ17RA2zCj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Hasna hene
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797863.mp4&play_token=rSjK9yQKqs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Harishchandra shaibya
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797862.mp4&play_token=HdDDzO5Kba&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pamy2zo6uouI75uIfzEJk4Gk7Y.jpg" group-title="VOD - VOD Movies",┃IN┃ Haripada Bandwala
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797861.mp4&play_token=BxFgbXWVsN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpQCrpZWeg6aQV0Ng3gwLxrXR6V.jpg" group-title="VOD - VOD Movies",┃IN┃ Harano Din
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797860.mp4&play_token=RzRhxwkAGA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cSAmHSH5gN1aJ9XMyVySBJ0EKj.jpg" group-title="VOD - VOD Movies",┃IN┃ The Accepted Defeat
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797859.mp4&play_token=qXirVUs3a1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sa0L64JVYOB4evgRmVAr5RSGDi.jpg" group-title="VOD - VOD Movies",┃IN┃ Hanshi Khushi Club
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797858.mp4&play_token=552aNXS2nV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Hangover
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797857.mp4&play_token=PzoQpgUcNN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Haatchhani
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797856.mp4&play_token=tDTgJR9Brs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyZ6SSV8F7yQxEiYCk2QSgzLIXI.jpg" group-title="VOD - VOD Movies",┃IN┃ Haami - A Gentle Kiss
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797855.mp4&play_token=oqqWjsqxsa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Gurudeb
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797854.mp4&play_token=SIn5nHmTOf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMOF2wlUuZUxOmob1ezGb2yFCiN.jpg" group-title="VOD - VOD Movies",┃IN┃ Guru Dakshina
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797853.mp4&play_token=C8RxmuVeCl&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Gundar prem
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797852.mp4&play_token=TxSljHGnCA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhkeL5TudgLYdZxI3Q70sXKXjcG.jpg" group-title="VOD - VOD Movies",┃IN┃ Gunda The Terrorist
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797851.mp4&play_token=pAD9eON0bS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Gunda
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797850.mp4&play_token=lzEFjecZOM&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Gram gonjer
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797849.mp4&play_token=3rQtmv9lmd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPxwLW0UobcrtBqZ6fsSdas9IRO.jpg" group-title="VOD - VOD Movies",┃IN┃ Goynar Baksho
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797848.mp4&play_token=BQQRcFOHYw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EnhxLtVynFpFK0dAYgWI7oM4PW.jpg" group-title="VOD - VOD Movies",┃IN┃ Goyenda Tatar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797847.mp4&play_token=jRp57HLo8H&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txfHZAKr7kdY1MZFktJPg17RHeP.jpg" group-title="VOD - VOD Movies",┃IN┃ Gorosthane Sabdhan
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797846.mp4&play_token=qFQNn0VCWk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Gorom hawa
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797845.mp4&play_token=PpLPlN3yPH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Goriber ostad
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797844.mp4&play_token=ltORzri6SC&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Goriber bhai
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797843.mp4&play_token=LhINi6y9oV&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRm7R2w3POAgQM7ozSLN0sfXSpR.jpg" group-title="VOD - VOD Movies",┃IN┃ Goraay Gandogol
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797842.mp4&play_token=v5svfYoVqS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Gono dushmon
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797841.mp4&play_token=sniP653lxY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Kacher shotru
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797840.mp4&play_token=3p314lN6mf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56leEOqIZbUIKwgESe3NYCYh6Zd.jpg" group-title="VOD - VOD Movies",┃IN┃  Jyeshthoputro
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797839.mp4&play_token=V37RMzbmZ4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃      Juari
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797838.mp4&play_token=54bAN8qAsn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YpHBidUMacAinE6Mq97ypgOCXv.jpg" group-title="VOD - VOD Movies",┃IN┃ Jongole Mitin Mashi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797837.mkv&play_token=BtAjCLzPhd&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0CPONn71dFF6Kl2bossZnRJQea.jpg" group-title="VOD - VOD Movies",┃IN┃ The Elephant God
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797836.mp4&play_token=eGomqak76b&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Jinda dafon
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797835.mp4&play_token=zUa52GAWZo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iibyPzeN3OGKxSrdqUS9b1nHg1Q.jpg" group-title="VOD - VOD Movies",┃IN┃  Jijibisha
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797834.mp4&play_token=7m7rTTmPGj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jiban Sathi
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797833.mp4&play_token=jSbicN4HuQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Ji hujur
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797832.mp4&play_token=4dm8NkKGAE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jhinukmala faruk nipa
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797831.mp4&play_token=32a8ZPRlZo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNlLoyFG4AxNjTyT8Xc00zjoT9T.jpg" group-title="VOD - VOD Movies",┃IN┃   Jhilli
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797830.mkv&play_token=scy9PhSXRf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃  Jeevan pradip
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797829.mp4&play_token=U2O33tAWCh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOvUHYRvhptpRwPj27s6gOVG94L.jpg" group-title="VOD - VOD Movies",┃IN┃  Je Jon Thake Majhkhane
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797828.mp4&play_token=wCqOpLkOpy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃   Jaydev
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797827.mp4&play_token=tg8hlLlapI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃ Janmantar
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797826.mp4&play_token=XKkiOmSqsG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - VOD Movies",┃IN┃     Janani
+http://mag.max-cdn.com:80/play/movie.php?mac=00:1A:79:19:21:F9&stream=797825.mp4&play_token=oWxesvNHlt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFIDjbaQa9HhVkvfSO3QDkxybmP.jpg" group-title="Full Movies",Murphy (2024)
 http://polarbear.mov:80/movie/9857855271/8369553594/698748.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmArXynq0fjMjdLaj9E893Jp6TB.jpg" group-title="Full Movies",1 - 2020
